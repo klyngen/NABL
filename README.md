@@ -28,3 +28,7 @@ A company owner needs to add the company to our system. And be able to inspect h
 
 #### Exporting time-sheets
 We need to be able to export time logged locally as well as time logged in firebase. We will anyhow use excel spread-sheets. If time is logged in firebase, the administrator will have the possibility to retrieve all time-sheets from a project for a specified amount of time. 
+
+
+#### GDPR warning
+Please look into the compliancy with GDPR before packaging this project in a country where GDPR is. This is first of all a student project, and we will try to make this application GDPR compliant. However, we cannot promise anything.
